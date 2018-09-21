@@ -63,7 +63,7 @@ Respondus Monitor es un software que funge como custodio (Proctor). Los estudian
 
 	- Ajuste la cámara hasta que su imagen se vea centralizada.
 
-	- Mientras habla hacia la cámara, oprima el botón Record Five Second Video (grabe video de 5 segundos).
+	- Mientras habla hacia la cámara, oprima el botón `Record Five Second Video` (grabe video de 5 segundos).
 
 	![Webcam Check](webcamCheck02.png)
 
