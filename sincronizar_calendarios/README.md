@@ -2,7 +2,7 @@
 
 Instrucciones paso a paso para sincronizar eventos a los respectivos calendarios del Instituto de Educación Virtual en el recinto de Ponce.
 
-Una vez se halla verificado la información de la solicitud y la disponibilidad de la fecha para el evento, se comienza el proceso de sincronización.
+Una vez se haya verificado la información de la solicitud y la disponibilidad de la fecha para el evento, se comienza el proceso de sincronización.
 
 Estos son los pasos a seguir:
 
@@ -10,7 +10,7 @@ Estos son los pasos a seguir:
 
    ![Add-ons](../.gitbook/assets/add-ons.png)
 
-2. Una vez aparezca el la lista de opciones, seleccione `Event-o-Matic` y luego `Preview & create new events`.
+2. Una vez aparezca la lista de opciones, seleccione `Event-o-Matic` y luego `Preview & create new events`.
 
    ![Preview &amp; create](../.gitbook/assets/preview_create.png)
 
