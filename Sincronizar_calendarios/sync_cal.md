@@ -30,7 +30,7 @@ Estos son los pasos a seguir:
 
 	![Preview events](preview_events.png)
 
-	> De encontrar errores en alguno de los eventos, deberá cerrar la ventana, hacer las correcciones necesarias en la hoja de cálculos y repetir los pasos 1 al 3.
+	> De encontrar errores en alguno de los eventos, deberá cerrar la ventana, hacer las correcciones necesarias en la hoja de cálculos y repetir los pasos 4 al 6.
 
 1. Si la información de los eventos a sincronizar es correcta, prosiga a aceptar la transacción, oprimiendo el botón circular.
 
