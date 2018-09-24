@@ -3,19 +3,24 @@
 
 Instrucciones paso a paso para sincronizar eventos a los respectivos calendarios del Instituto de Educación Virtual en el recinto de Ponce.
 
-Una vez se halla verificado la informacion de la solicitud y la disponibilidad de la fecha para el evento, se comienza el proceso de sincronizacion.
+Una vez se haya verificado la información de la solicitud y la disponibilidad de la fecha para el evento, se comienza el proceso de sincronización.
 
 Estos son los pasos a seguir:
 
-1. Seleccionar `Add-ons` que se encuentra en la barra de herramientas en la parte superior de la hoja de calculos.
- 
- ![Add-ons](./add-ons.png)
+1. Seleccionar `Add-ons` que se encuentra en la barra de herramientas en la parte superior de la hoja de cálculos.
 
-1. Una vez aparesca el la lista de opciones, seleccione `Event-o-Matic` y luego `preview and sync events`.
+	![Add-ons](./add-ons.png)
 
+1. Una vez aparezca la lista de opciones, seleccione `Event-o-Matic` y luego `Preview & create new events`.
 
-1. Se abrira una ventana rectangular, en ella podra repasar el o los eventos que se crearan en los respectivos calendarios.
+	![Preview & create](./preview_create.png)
 
-1. Si la informacion de los eventos a sincronizar es correcta, prosiga a aceptar la transacion, seleccionando el boton circular. 
+1. Se abrirá una ventana rectangular, en ella podrá repasar los eventos que se crearan en los respectivos calendarios.
 
-> De encontrar errores en alguno de los eventos, debera cerrar la ventana, hacer las correcciones necesarias en la hoja de calculos y repetir los pasos 1 al 3.
+	![Preview events](./preview_events.png)
+
+	> De encontrar errores en alguno de los eventos, deberá cerrar la ventana, hacer las correcciones necesarias en la hoja de cálculos y repetir los 		pasos 1 al 3.
+
+1. Si la información de los eventos a sincronizar es correcta, prosiga a aceptar la transacción, seleccionando el botón circular.
+
+	![Acept](./preview_acept.png)
