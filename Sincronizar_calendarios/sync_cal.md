@@ -8,7 +8,7 @@ Una vez se halla verificado la informacion de la solicitud y la disponibilidad d
 Estos son los pasos a seguir:
 
 1. Seleccionar `Add-ons` que se encuentra en la barra de herramientas en la parte superior de la hoja de calculos.
- !(Add-ons)[add-ons.png)
+ !(Add-ons)[./add-ons.png)
 
 1. Una vez aparesca el la lista de opciones, seleccione `Event-o-Matic` y luego `preview and sync events`.
 
