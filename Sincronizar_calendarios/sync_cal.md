@@ -39,7 +39,7 @@ Estos son los pasos a seguir:
 ***
 
 ### "You don't have ownership access to calendar"
-Si recibe este error `You don't have ownership access to calendar`, se debe a que el encacillado en la columna `Calendario` no contiene el `ID` del calendario de la sala relacionada al evento.
+Si recibe este error `You don't have ownership access to calendar`, esto se debe a que el encacillado en la columna `Calendario` no contiene el `ID` del calendario de la sala relacionada al evento.
 
 
 ![Error en calendario](no_cal.png)
