@@ -36,8 +36,10 @@ Estos son los pasos a seguir:
 
 	![Acept](preview_acept.png)
 
->### "You don't have ownership access to calendar"
->Si recibe este error `You don't have ownership access to calendar`, se debe a que el encacillado en la columna `Calendario` no contiene el `ID` del calendario de la sala relacionada al evento.
+***
+
+### "You don't have ownership access to calendar"
+Si recibe este error `You don't have ownership access to calendar`, se debe a que el encacillado en la columna `Calendario` no contiene el `ID` del calendario de la sala relacionada al evento.
 
 
 ![Error en calendario](no_cal.png)
