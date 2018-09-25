@@ -14,7 +14,7 @@ Estos son los pasos a seguir:
 
 	![Función expandida](copy_func02.png)
 
-> El proposito de la función es extraer información de otras columnas, para luego ser enviada como datos adicionales al calendario y al mensaje de confirmación.
+	> El proposito de la función es extraer información de otras columnas, para luego ser enviada como datos adicionales al calendario y al mensaje de confirmación.
 
 1. Seleccione la hoja de cálculos llamada `Calendarios`, esta la puede encontrar en la parte inferior de la pantalla.
 
