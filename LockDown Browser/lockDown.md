@@ -100,7 +100,7 @@ Respondus Monitor es un software que funge como custodio (Proctor). Los estudian
 
 	![Begin Exam](beginExam.png)
 
-	> Al finalizar el examen, oprima en `Submit all and finish`.
+8. Al finalizar el examen, oprima en `Submit all and finish`.
 
 ## Dificultades durante el examen
 
