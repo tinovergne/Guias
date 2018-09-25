@@ -6,6 +6,14 @@ Una vez se haya verificado la información de la solicitud y la disponibilidad d
 
 Estos son los pasos a seguir:
 
+1. Buscar la columna `Descripción` y `Desc_email`. Ahora exapanda la función de la celda anterior hacia abajo, agarrando la esquina derecha inferior.
+
+	![Expandir función](copy_func01.png)
+
+1. Aparecerá información en la celda a donde se expandió la función. Debera repetir el paso anterios(paso 1) en la columna `Desc_email` para popular la celda con información.
+
+	![Función expandida](copy_func02.png)
+
 1. Seleccione la hoja de cálculos llamada `Calendarios`, esta la puede encontrar en la parte inferior de la pantalla.
 
 	![Hoja de calendarios](cal_sheet.png)
@@ -20,7 +28,7 @@ Estos son los pasos a seguir:
 
 1. Para comenzar el proceso de sincronización debe seleccionar `Add-ons` que se encuentra en la barra de herramientas en la parte superior de la hoja de cálculos.
 
-	![Add-ons](add-ons.png) 
+	![Add-ons](add-ons.png)
 
 1. Una vez aparezca la lista de opciones, seleccione `Event-o-Matic` y luego `Preview & create new events`.
 
@@ -36,7 +44,8 @@ Estos son los pasos a seguir:
 
 	![Acept](preview_acept.png)
 
-***
+
+*****
 
 ### "You don't have ownership access to calendar"
 Si recibe este error `You don't have ownership access to calendar`, esto se debe a que el encacillado en la columna `Calendario` no contiene el `ID` del calendario de la sala relacionada al evento.
