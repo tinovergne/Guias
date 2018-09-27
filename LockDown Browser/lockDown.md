@@ -34,9 +34,9 @@ Respondus Monitor es un software que funge como custodio (Proctor). Los estudian
 
 3. Automáticamente se abrirá una ventana.
 
-4. Seleccione el servidor `ievonline.pucpr.edu` y oprima `Ok`. La página de Moodle se abrirá.
+4. Seleccione el servidor `@#$%` y oprima `Ok`. La página de Moodle se abrirá.
 
-	![Choose a server](chooseServer.png)
+	![Choose a server](chooseServer.)
 
 	>Se recomienda que actualice el navegador LockDown Browser antes de acceder al curso en línea para tomar el examen. Para actualizarlo, oprima el círculo con la letra i ubicado en el menú superior a la izquierda.
 
