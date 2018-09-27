@@ -38,7 +38,7 @@ Estos son los pasos a seguir:
 
 1. Se abrirá una ventana rectangular, en ella podrá revisar la información de los eventos que serán creados.
 
-	![Preview events](preview_events.png)
+	![Preview events](preview_events.)
 
 	> De encontrar errores en alguno de los eventos, deberá cerrar la ventana, hacer las correcciones necesarias en la hoja de cálculos y repetir los pasos 4 al 6.
 
