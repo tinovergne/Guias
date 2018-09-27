@@ -34,7 +34,7 @@ Estos son los pasos a seguir:
 
 1. Una vez aparezca la lista de opciones, seleccione `Event-o-Matic` y luego `Preview & create new events`.
 
-	![Preview & create](preview_create.png)
+	![Preview & create](preview_create.)
 
 1. Se abrirá una ventana rectangular, en ella podrá revisar la información de los eventos que serán creados.
 
