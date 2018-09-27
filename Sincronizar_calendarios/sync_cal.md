@@ -1,6 +1,6 @@
 # Sincronización de reservaciones a los calendarios
 
-Instrucciones paso a paso para sincronizar eventos a los respectivos calendarios del Instituto de Educación Virtual en el recinto del Ponce.
+Instrucciones paso a paso para sincronizar eventos a los respectivos calendarios.
 
 Una vez se haya verificado la información de la solicitud y la disponibilidad de la fecha para el evento, se comienza el proceso de sincronización.
 
