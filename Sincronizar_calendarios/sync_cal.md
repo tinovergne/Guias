@@ -8,11 +8,11 @@ Estos son los pasos a seguir:
 
 1. Buscar la columna `Descripción` y `Desc_email`. Ahora exapanda la función de la celda anterior hacia abajo, agarrando la esquina derecha inferior.
 
-	![Expandir función](copy_func01.)
+	![Expandir función](copy_func01.png)
 
 1. Aparecerá información en la celda a donde se expandió la función. Debera repetir el paso anterios(paso 1) en la columna `Desc_email` para popular la celda con información.
 
-	![Función expandida](copy_func02.)
+	![Función expandida](copy_func02.png)
 
 	> El proposito de la función es extraer información de otras columnas, para luego ser enviada como datos adicionales al calendario y al mensaje de confirmación.
 
@@ -34,11 +34,11 @@ Estos son los pasos a seguir:
 
 1. Una vez aparezca la lista de opciones, seleccione `Event-o-Matic` y luego `Preview & create new events`.
 
-	![Preview & create](preview_create.)
+	![Preview & create](preview_create.png)
 
 1. Se abrirá una ventana rectangular, en ella podrá revisar la información de los eventos que serán creados.
 
-	![Preview events](preview_events.)
+	![Preview events](preview_events.png)
 
 	> De encontrar errores en alguno de los eventos, deberá cerrar la ventana, hacer las correcciones necesarias en la hoja de cálculos y repetir los pasos 4 al 6.
 
@@ -53,4 +53,4 @@ Estos son los pasos a seguir:
 Si recibe este error `You don't have ownership access to calendar`, esto se debe a que el encacillado en la columna `Calendario` no contiene el `ID` del calendario de la sala relacionada al evento.
 
 
-![Error en calendario](no_cal.)
+![Error en calendario](no_cal.png)
