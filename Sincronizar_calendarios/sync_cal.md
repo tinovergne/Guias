@@ -1,26 +1,26 @@
 # Sincronización de reservaciones a los calendarios
 
-Instrucciones paso a paso para sincronizar eventos a los respectivos calendarios del Instituto de Educación Virtual en el recinto del Ponce.
+Instrucciones paso a paso para sincronizar eventos en los respectivos calendarios del Instituto de Educación Virtual en el recinto del Ponce.
 
 Una vez se haya verificado la información de la solicitud y la disponibilidad de la fecha para el evento, se comienza el proceso de sincronización.
 
-Estos son los pasos a seguir:
+Pasos a seguir:
 
 1. Buscar la columna `Descripción` y `Desc_email`. Ahora exapanda la función de la celda anterior hacia abajo, agarrando la esquina derecha inferior.
 
 	![Expandir función](copy_func01.png)
 
-1. Aparecerá información en la celda a donde se expandió la función. Debera repetir el paso anterios(paso 1) en la columna `Desc_email` para popular la celda con información.
+1. Aparecerá información en la celda donde se expandió la función. Deberá repetir el paso anterior (paso 1) en la columna `Desc_email` para poblar la celda con información.
 
 	![Función expandida](copy_func02.png)
 
-	> El proposito de la función es extraer información de otras columnas, para luego ser enviada como datos adicionales al calendario y al mensaje de confirmación.
+	> El propósito de la función es extraer información de otras columnas, para luego ser enviada como datos adicionales al calendario y al mensaje de confirmación.
 
 1. Seleccione la hoja de cálculos llamada `Calendarios`, esta la puede encontrar en la parte inferior de la pantalla.
 
 	![Hoja de calendarios](cal_sheet.png)
 
-1. En esta hoja de cálculo, seleccione y copie el `ID` de la sala relacionada al evento.
+1. En la hoja de cálculo, seleccione y copie el `ID` de la sala relacionada al evento.
 
 	![Copiar ID](copy_cal.png)
 
@@ -28,7 +28,7 @@ Estos son los pasos a seguir:
 
 	![Columna del calendario](cal_col.png)
 
-1. Para comenzar el proceso de sincronización debe seleccionar `Add-ons` que se encuentra en la barra de herramientas en la parte superior de la hoja de cálculos.
+1. Para comenzar el proceso de sincronización, debe seleccionar `Add-ons` que se encuentra en la barra de herramientas en la parte superior de la hoja de cálculos.
 
 	![Add-ons](add-ons.png)
 
@@ -42,7 +42,7 @@ Estos son los pasos a seguir:
 
 	> De encontrar errores en alguno de los eventos, deberá cerrar la ventana, hacer las correcciones necesarias en la hoja de cálculos y repetir los pasos 4 al 6.
 
-1. Si la información de los eventos a sincronizar es correcta, prosiga a aceptar la transacción, oprimiendo el botón circular.
+1. Si la información de los eventos a sincronizar es correcta, prosiga a aceptar la transacción, oprimiendo el botón redondo.
 
 	![Acept](preview_acept.png)
 
